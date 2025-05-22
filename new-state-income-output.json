@@ -1,0 +1,262 @@
+{
+    "AL": {
+        "state": "Alabama",
+        "population": 5054253,
+        "income": 62027
+    },
+    "AK": {
+        "state": "Alaska",
+        "population": 733971,
+        "income": 89336
+    },
+    "AZ": {
+        "state": "Arizona",
+        "population": 7268175,
+        "income": 76872
+    },
+    "AR": {
+        "state": "Arkansas",
+        "population": 3032651,
+        "income": 58773
+    },
+    "CA": {
+        "state": "California",
+        "population": 39242785,
+        "income": 96334
+    },
+    "CO": {
+        "state": "Colorado",
+        "population": 5810774,
+        "income": 92470
+    },
+    "CT": {
+        "state": "Connecticut",
+        "population": 3598348,
+        "income": 93760
+    },
+    "DE": {
+        "state": "Delaware",
+        "population": 1005872,
+        "income": 82855
+    },
+    "DC": {
+        "state": "District of Columbia",
+        "population": 672079,
+        "income": 106287
+    },
+    "FL": {
+        "state": "Florida",
+        "population": 21928881,
+        "income": 71711
+    },
+    "GA": {
+        "state": "Georgia",
+        "population": 10822590,
+        "income": 74664
+    },
+    "HI": {
+        "state": "Hawaii",
+        "population": 1445635,
+        "income": 98317
+    },
+    "ID": {
+        "state": "Idaho",
+        "population": 1893296,
+        "income": 74636
+    },
+    "IL": {
+        "state": "Illinois",
+        "population": 12692653,
+        "income": 81702
+    },
+    "IN": {
+        "state": "Indiana",
+        "population": 6811752,
+        "income": 70051
+    },
+    "IA": {
+        "state": "Iowa",
+        "population": 3195937,
+        "income": 73147
+    },
+    "KS": {
+        "state": "Kansas",
+        "population": 2937569,
+        "income": 72639
+    },
+    "KY": {
+        "state": "Kentucky",
+        "population": 4510725,
+        "income": 62417
+    },
+    "LA": {
+        "state": "Louisiana",
+        "population": 4621025,
+        "income": 60023
+    },
+    "ME": {
+        "state": "Maine",
+        "population": 1377400,
+        "income": 71773
+    },
+    "MD": {
+        "state": "Maryland",
+        "population": 6170738,
+        "income": 101652
+    },
+    "MA": {
+        "state": "Massachusetts",
+        "population": 6992395,
+        "income": 101341
+    },
+    "MI": {
+        "state": "Michigan",
+        "population": 10051595,
+        "income": 71149
+    },
+    "MN": {
+        "state": "Minnesota",
+        "population": 5713716,
+        "income": 87556
+    },
+    "MS": {
+        "state": "Mississippi",
+        "population": 2951438,
+        "income": 54915
+    },
+    "MO": {
+        "state": "Missouri",
+        "population": 6168181,
+        "income": 68920
+    },
+    "MT": {
+        "state": "Montana",
+        "population": 1105072,
+        "income": 69922
+    },
+    "NE": {
+        "state": "Nebraska",
+        "population": 1965926,
+        "income": 74985
+    },
+    "NV": {
+        "state": "Nevada",
+        "population": 3141000,
+        "income": 75561
+    },
+    "NH": {
+        "state": "New Hampshire",
+        "population": 1387834,
+        "income": 95628
+    },
+    "NJ": {
+        "state": "New Jersey",
+        "population": 9267014,
+        "income": 101050
+    },
+    "NM": {
+        "state": "New Mexico",
+        "population": 2114768,
+        "income": 62125
+    },
+    "NY": {
+        "state": "New York",
+        "population": 19872319,
+        "income": 84578
+    },
+    "NC": {
+        "state": "North Carolina",
+        "population": 10584340,
+        "income": 69904
+    },
+    "ND": {
+        "state": "North Dakota",
+        "population": 779361,
+        "income": 75949
+    },
+    "OH": {
+        "state": "Ohio",
+        "population": 11780046,
+        "income": 69680
+    },
+    "OK": {
+        "state": "Oklahoma",
+        "population": 3995260,
+        "income": 63603
+    },
+    "OR": {
+        "state": "Oregon",
+        "population": 4238714,
+        "income": 80426
+    },
+    "PA": {
+        "state": "Pennsylvania",
+        "population": 12986518,
+        "income": 76081
+    },
+    "RI": {
+        "state": "Rhode Island",
+        "population": 1095371,
+        "income": 86372
+    },
+    "SC": {
+        "state": "South Carolina",
+        "population": 5212774,
+        "income": 66818
+    },
+    "SD": {
+        "state": "South Dakota",
+        "population": 899194,
+        "income": 72421
+    },
+    "TN": {
+        "state": "Tennessee",
+        "population": 6986082,
+        "income": 67097
+    },
+    "TX": {
+        "state": "Texas",
+        "population": 29640343,
+        "income": 76292
+    },
+    "UT": {
+        "state": "Utah",
+        "population": 3331187,
+        "income": 91750
+    },
+    "VT": {
+        "state": "Vermont",
+        "population": 645254,
+        "income": 78024
+    },
+    "VA": {
+        "state": "Virginia",
+        "population": 8657499,
+        "income": 90974
+    },
+    "WA": {
+        "state": "Washington",
+        "population": 7740984,
+        "income": 94952
+    },
+    "WV": {
+        "state": "West Virginia",
+        "population": 1784462,
+        "income": 57917
+    },
+    "WI": {
+        "state": "Wisconsin",
+        "population": 5892023,
+        "income": 75670
+    },
+    "WY": {
+        "state": "Wyoming",
+        "population": 579761,
+        "income": 74815
+    },
+    "PR": {
+        "state": "Puerto Rico",
+        "population": 3254885,
+        "income": 25096
+    }
+}
